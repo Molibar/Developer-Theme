@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1e79b3d-5aff-408e-8e37-d4cb1451b1ff" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="Developer-Theme.iws" />
@@ -28,8 +29,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="272" column="139" lean-forward="false" selection-start-line="272" selection-start-column="139" selection-end-line="272" selection-end-column="139" />
+            <state relative-caret-position="310">
+              <caret line="273" column="118" lean-forward="false" selection-start-line="273" selection-start-column="118" selection-end-line="273" selection-end-column="118" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="font-awesome.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/plugins/font-awesome/css/font-awesome.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="1462" column="1" lean-forward="true" selection-start-line="1462" selection-start-column="1" selection-end-line="1462" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -65,6 +76,12 @@
       <find>&quot;list&quot;</find>
       <find>database</find>
       <find>christer.brannstrom@contractingcoder.com</find>
+      <find>christer.bra</find>
+      <find>file-</find>
+      <find>font-awesom</find>
+      <find>font-</find>
+      <find>file</find>
+      <find>curric</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -237,12 +254,12 @@
       <workItem from="1479136455810" duration="27000" />
       <workItem from="1479136492993" duration="17000" />
       <workItem from="1479136625700" duration="16000" />
-      <workItem from="1479152435879" duration="6590000" />
+      <workItem from="1479152435879" duration="7953000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6650000" />
+    <option name="totallyTimeSpent" value="8013000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="290" y="0" width="1637" height="1059" extended-state="0" />
@@ -333,10 +350,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/plugins/font-awesome/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="1462" column="1" lean-forward="true" selection-start-line="1462" selection-start-column="1" selection-end-line="1462" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="272" column="139" lean-forward="false" selection-start-line="272" selection-start-column="139" selection-end-line="272" selection-end-column="139" />
+        <state relative-caret-position="310">
+          <caret line="273" column="118" lean-forward="false" selection-start-line="273" selection-start-column="118" selection-end-line="273" selection-end-column="118" />
           <folding />
         </state>
       </provider>
